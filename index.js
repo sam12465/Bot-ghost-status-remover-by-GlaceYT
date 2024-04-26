@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Im a MOD BOT","SKYLO was taken on youtube"];
 
 
 let currentIndex = 0;
